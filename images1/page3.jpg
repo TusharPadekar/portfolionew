@@ -1,0 +1,218 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Healthy LifeStyle</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>	
+	<link rel="stylesheet" type="text/css" href="Master.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="col-5 col-sm-5 col-md-6 col-lg-6 col-xl-6">
+					<img src="Images/logo.jpg" class="img-fluid mx-auto" height="70" width="170">
+				</div>
+
+				<div class="col-7 col-sm-7 col-md-6 col-lg-6 col-xl-6">
+					<form class="form-inline" style="margin-top: 35px; margin-left: 60px;">
+						<div class="input-group">
+							<input class="form-control mr-sm-2" type="text" placeholder="Search....">
+							<button class="btn btn-success" type="submit">Submit</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</header>
+
+
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
+		<div class="container-fluid">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+	    		<span class="navbar-toggler-icon"></span>
+	  		</button>
+	  		<div class="collapse navbar-collapse" id="collapsibleNavbar">
+				<ul class="navbar-nav mx-auto">
+					<li class="nav-item"><a class="nav-link"  href="Home.html" style="width: 110px; text-align: center;">HOME</a></li>
+					<li class="nav-item"><a class="nav-link"  href="page2.html" style="width: 140px; text-align: center;">PAGE2</a></li>
+					<li class="nav-item active" style="border-bottom: 3px solid #77b300; font-size: 17px;"><a class="nav-link"  href="page3.html" style="width: 150px; text-align: center;">PAGE3</a></li>
+					<li class="nav-item"><a class="nav-link"  href="cricketingshots.html" style="width: 190px; text-align: center;">CICIKETING SHOTS</a></li>
+					<li class="nav-item"><a class="nav-link"  href="PlayerStats.html" style="width: 130px; text-align: center;">STATISTICS</a></li>
+					<li class="nav-item"><a class="nav-link"  href="Contact.html" style="width: 120px; text-align: center;">CONTACT</a></li>
+				</ul>
+			</div>	
+		</div>
+	</nav>
+
+	<section>
+
+
+		<div class="container">
+			<div class="cont1" id="WeightGainSection1">
+				<div class="row">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12"><br>
+						<h1 style="text-align: center;">-Country With their Winning Trophy-</h1><br><br>
+					</div><br><br><br>
+
+					<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+						<img src="Images/captains.jpg" height="390" width="790" class="img-thumbnail img-fluid mx-auto d-block">
+					</div>					
+				</div>
+			</div>
+		</div><br>
+		
+		<div class="container" id="table"> 
+				
+			<div class="Chart" id="WeightGainSection2">
+				<div class="table-responsive">
+					<div>
+						<table class="table table-striped table-bordered table-hover" style="font-size: 17.5px;">
+							<thead class="thead-dark" style="font-size: 20px;"> 
+								<tr>
+									<th colspan="2"><b>AUATRALIA</b></th>
+								</tr>
+							</thead>
+							<tr>
+								<td>ODI WC</td>
+								<td>The Australian cricket team won 1987,1999,2003,2007 and 2015 edition of ODI WC.</td>
+							</tr>
+							<tr>
+								<td>TWENTY-20 WC</td>
+								<td>Austrelia won the T-20 WC for the first time in 2021. </td>
+							</tr>
+							
+							
+							
+							
+							
+							<thead class="thead-dark" style="font-size: 20px;"> 
+								<tr>
+									<th colspan="2"><b>WEST INDIES</b></th>
+								</tr>
+							</thead>														
+							<tr>
+								<td>ODI WC</td>
+								<td>The West Indies cricket team won 1975,1979 edition of ODI WC.</td>
+							</tr>
+							<tr>
+								<td>TWENTY-20 WC</td>
+								<td>West Indies cricket team won the T-20 WC two times in 2012 & 2016.  </td>
+							</tr>
+							
+
+
+
+
+							<thead class="thead-dark" style="font-size: 20px;"> 
+								<tr>
+									<th colspan="2"><b>INDIA</b></th>
+								</tr>
+							</thead>
+							<tr>
+								<td>ODI WC</td>
+								<td>The Indian cricket team won 1983,2011 edition of ODI WC.</td>
+							</tr>
+							<tr>
+								<td>TWENTY-20 WC</td>
+								<td>Team India has won the T20 WC only onc time in 2007.</td>
+							</tr>
+							
+							
+							
+							
+							<thead class="thead-dark" style="font-size: 20px;"> 
+								<tr>
+									<th colspan="2"><b>SRI LANKA</b></th>
+								</tr>
+							</thead>	
+							<tr>
+								<td>ODI WC</td>
+								<td>The Sri Lanka cricket team won 1975,1979 edition of ODI WC.</td>
+							</tr>
+							<tr>
+								<td>TWENTY-20 WC</td>
+								<td>Team Sri Lanka has won the T20 WC only onc time in 2014.</td>
+							</tr>
+							
+							
+							
+							
+							
+							
+							
+							<thead class="thead-dark" style="font-size: 20px;"> 
+								<tr>
+									<th colspan="2"><b>PAKISTAN</b></th>
+								</tr>
+							</thead>
+							<tr>
+								<td>ODI WC</td>
+								<td>The Pakistan cricket team won 1992 edition of ODI WC.</td>
+							</tr>
+							<tr>
+								<td>TWENTY-20 WC</td>
+								<td>Pakistan cricket team won the T-20 WC only one in 2009.  </td>
+							</tr>
+
+
+
+
+
+							<thead class="thead-dark" style="font-size: 20px;"> 
+								<tr>
+									<th colspan="2">ENGLAND</th>
+								</tr>
+							</thead>	
+							<tr>
+								<td>ODI WC</td>
+								<td>The England cricket team won 1975,1979 edition of ODI WC.</td>
+							</tr>
+							<tr>
+								<td>TWENTY-20 WC</td>
+								<td>England cricket team won the T-20 WC two times in 2010 & 2022.  </td>
+							</tr>
+
+
+
+
+
+
+							<thead class="thead-dark" style="font-size: 20px;"> 
+								<tr>
+									<th colspan="2">SOUTH AFRICA</th>
+								</tr>
+							</thead>	
+							<tr>
+								<td>ODI WC</td>
+								<td>South Africa cricket team does'n have won T-20 WC.</td>
+							</tr>
+							<tr>
+								<td>TWENTY-20 WC</td>
+								<td>South Africa cricket team does'n have won T-20 WC.</td>
+							</tr>
+						</table>
+					</div>	
+				</div>	
+			</div>
+		</div><br><br>
+
+		
+	</section><br>
+
+	<footer class="bg-dark">
+		<div class="row">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+				<h4>@  2023 Cricket Diaries. All Copy Rights Reserved. </h4>
+			</div>
+		</div>
+	</footer>
+
+</body>
+</html>

@@ -1,0 +1,113 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+footer{
+	width: 100%;
+	height: 60px;
+	color: white;
+	display: flex;
+	justify-content:space-around;
+	margin: auto;
+}
+
+footer h4{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 17px;
+}
+
+.Quicklink{
+	background: #f2f2f2;
+	width: 100%;
+	color: black;
+	display: flex;
+	justify-content:space-around;
+	margin: auto;
+}
+
+.Quicklink a{
+	color:black;
+	line-height: 32px;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.Quicklink a:hover{
+	text-decoration: underline;
+}
+
+html, body{
+	overflow-x: hidden;
+	font-family: 'Lato', sans-serif; 
+	width: 100%;
+}
+
+a{
+	text-decoration: none;
+	content-align:center;
+}
+
+ul{
+	list-style-type: none;
+	content-align:center;
+}
+a:hover , a focus{
+	t
+	text-align:center;
+}
+
+h1, h2, h3, h4,h5, h6 {
+	font-weight: 600;
+	text-transform: none;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	}
+	
+hr{	
+	border-color: #ffc256;
+	border-width: 5px;
+	max-width: 100%;
+}
+.container-h1{
+	font-family: 'Lora', serif;
+	text-align: center;
+	font-size: 5px;
+	font-weight: 700;
+	margin: 0px auto;
+	color: +355:
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.btn {
+
+color: #fff;
+
+background-color: #182c39; border-radius: 0;
+
+margin: 20px auto;
+
+font-weight: 500;
+
+display: table; padding: 10px;
+
+}
+
+.btn:hover{
+
+color: #182c39;
+
+background-color: transparent;
+
+border: 1px solid #182c39;
+
+}
+
+
+
+
